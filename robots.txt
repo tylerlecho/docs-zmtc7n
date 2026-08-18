@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-3dnxyq.pusatradar88.cfd/sitemap.xml
